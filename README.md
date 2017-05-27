@@ -8,5 +8,5 @@ To run, execute the file from the command line or via Task Scheduler.
 
 ## What I Learned
 * Small, simple programs can have big impact under certain contexts.
-* .pyw files are run without an associated console.
+* pyw files are run without an associated console.
 * Goals can be broken down into concepts such as data types, decision making, and looping.
