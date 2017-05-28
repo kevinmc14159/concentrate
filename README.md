@@ -1,5 +1,5 @@
 # Concentrate
-Python script that blocks distracting websites during work hours
+*Concentrate* is a Python script that blocks distracting websites during work hours.
 
 ## How to Use
 To begin setup, customize *hosts_path* to the location of your hosts file. Next, update the block list with websites to block. Finally, update *start_time* and *stop_time* to change the time frame which accessing the sites is restricted.
