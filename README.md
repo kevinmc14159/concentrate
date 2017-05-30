@@ -6,6 +6,15 @@ To begin setup, customize *hosts_path* to the location of your *hosts* file. Nex
 
 To run, execute the file from the command line or via Task Scheduler.
 
+## Key Concepts Applied
+* Data Types
+* Operators
+* Decision Making
+* Looping
+* Date & Time
+* Modules
+* Files & I/O
+
 ## What I Learned
 * Small, simple programs can have big impact under certain contexts.
 * *.pyw* files are run without an associated console.
